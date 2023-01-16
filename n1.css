@@ -1,0 +1,15 @@
+p{
+    color: dimgrey;
+}
+p:hover{
+    color: black
+}
+.chet{
+    color: red;
+}
+.chet:hover{
+    color: orange;
+}
+.nech:hover{
+    color:orange ;
+}
